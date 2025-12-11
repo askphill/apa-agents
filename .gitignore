@@ -1,2 +1,6 @@
 .DS_Store
 .claude/settings.local.json
+
+# Node modules (if running orchestrator locally for testing)
+node_modules/
+dist/
